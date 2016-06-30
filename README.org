@@ -1,0 +1,7 @@
+* data science notebooks
+This repository contains some Jupyter notebooks created by the awesome
+data science team at FlixBus. 
+
+| notebook                                                           | description |
+|--------------------------------------------------------------------+-------------|
+| [[http://nbviewer.jupyter.org/github/flix-tech/data-science-notebooks/blob/master/feature_importances_sklearn_vs_xgboost.ipynb][Feature importances in tree based models: xgboost vs. scikit learn]] | test        |
